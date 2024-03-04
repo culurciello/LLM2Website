@@ -1,4 +1,12 @@
-# Gemini experiments on web design
+# LLM website with no-code
+
+Can an LLM generrative model like ChatGPT or Gemini design an entire webpage with jsavascript server side code? We want to enable anyone to be able to create and publish simple websites with limited coding knowledge and using modern AI tools.
+
+We experiment on multiple platforms:
+
+- Google Gemini
+- Google AI Studio
+- Microsoft Co-pilot
 
 ## PROMPT #1:
 
