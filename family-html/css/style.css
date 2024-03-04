@@ -1,0 +1,25 @@
+.member-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #f0f0f0; /* Example background */ 
+}
+
+.member-container:nth-child(odd) { 
+     background-color: #e0e0e0; /* Alternate backgrounds */
+}
+
+.member-info {
+    text-align: center;
+}
+
+/* Style for Edit/Back Buttons */
+.edit-button, .back-button {
+    /* Add your preferred button styles */
+}
+
+.back-button {
+    display: block;
+    margin: 20px auto; /* Center the button */
+}
